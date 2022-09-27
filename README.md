@@ -68,7 +68,7 @@ I code, so people can work from anywhere.
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/kumarvoman?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="files/hackerrank.jpeg" />
+<img height="273em" src="files/hackerrank.jpeg" />
 </p>
 
 #### Recent Activity
