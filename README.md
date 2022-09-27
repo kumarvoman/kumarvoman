@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://hackerrank.com/profile/kumarvoman">
-    <img src="https://raw.githubusercontent.com/kumarvoman/cf-stats/main/output/rating.svg" alt="Hackerrank code rating" />
+    <img src="https://raw.githubusercontent.com/kumarvoman/hackerrank-stats/main/output/rating.svg" alt="Hackerrank code rating" />
   </a>
   <a href="[https://stackoverflow.com/users/5921662/sudipto](https://stackoverflow.com/users/7059433/voman-kumar)">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
