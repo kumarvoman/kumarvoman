@@ -97,4 +97,7 @@ I code, so people can work from anywhere.
 <a href="mailto:kumarvoman@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
+  <a href="https://kumarvoman.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 </p>
