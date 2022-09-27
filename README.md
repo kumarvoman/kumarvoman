@@ -50,7 +50,7 @@ I code, so people can work from anywhere.
 - 🌍 I'm mostly active within the **C++ Community**
 - 🌱 Learning all about **Load Balancer & Messaging Queues**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
-- 📫 Reach me: [twitter.com/vomankumar](https://twitter.com/vomankumar)
+- 📫 Reach me: [portfolio](https://kumarvoman.com)
 - 📝 Checkout my [Resume](files/Resume.pdf).
 
 #### My Current Stack
