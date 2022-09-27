@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
 
+<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
+  
 #### Connect With Me
 
 <p left="center">
