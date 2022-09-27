@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a software engineer working in Bengaluru, Karnataka, India
 
 <p align="left">
   <a href="https://leetcode.com/kumarvoman/">
