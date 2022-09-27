@@ -48,7 +48,7 @@ I code, so people can work from anywhere.
 - 🏢 I'm currently working at **Ivanti - Senior Software Engineer R&D**
 - ⚙️ I use daily: `.cpp`, `.bat`, `.mak`, `.sh`
 - 🌍 I'm mostly active within the **C++ Community**
-- 🌱 Learning all about **Backend and System Design**
+- 🌱 Learning all about **Load Balancer & Messaging Queues**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
 - 📫 Reach me: [twitter.com/vomankumar](https://twitter.com/vomankumar)
 - 📝 Checkout my [Resume](files/resume.pdf).
