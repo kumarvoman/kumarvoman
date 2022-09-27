@@ -78,7 +78,7 @@ I code, so people can work from anywhere.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarvoman/0"><img src="#" alt="Latest medium article">
   -->
 
-<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src=":one:" alt="Latest blog article"> </a>
+<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="#" alt=:one:> </a>
   
 #### Connect With Me
 
@@ -94,9 +94,6 @@ I code, so people can work from anywhere.
 </a>
 <a href="https://medium.com/@vomankumar">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
-<a href="https://mailto:kumarvoman@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
   
