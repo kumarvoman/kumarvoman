@@ -94,10 +94,7 @@ I code, so people can work from anywhere.
 <a href="https://medium.com/@vomankumar">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="mailto:kumarvoman@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-  <a href="https://kumarvoman.com">
+<a href="https://mailto:kumarvoman@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
