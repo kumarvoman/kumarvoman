@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://codeforces.com/profile/sudipto.me">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
+  <a href="[https://stackoverflow.com/users/5921662/sudipto](https://stackoverflow.com/users/7059433/voman-kumar)">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/kumarvoman?tab=followers">
