@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href="https://leetcode.com/kumarvoman/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  <a href="https://hackerrank.com/profile/kumarvoman">
+    <img src="https://raw.githubusercontent.com/kumarvoman/cf-stats/main/output/rating.svg" alt="Hackerrank code rating" />
   </a>
   <a href="[https://stackoverflow.com/users/5921662/sudipto](https://stackoverflow.com/users/7059433/voman-kumar)">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 🌍 I'm mostly active within the **C++ Community**
 - 🌱 Learning all about **Backend and System Design**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
-- 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/vomankumar)
+- 📫 Reach me: [twitter.com/vomankumar](https://twitter.com/vomankumar)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
 #### My Current Stack
