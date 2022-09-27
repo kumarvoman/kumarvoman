@@ -78,7 +78,7 @@ I code, so people can work from anywhere.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarvoman/0"><img src="#" alt="Latest medium article">
   -->
 
-<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="#" alt="Skills-one-should-have-to-be-a-kickass-backend-developer"> </a>
+<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="#" alt="Top 10 must have skills for a backend developer"> </a>
   
 #### Connect With Me
 
