@@ -50,8 +50,8 @@ I code, so people can work from anywhere.
 - 🌍 I'm mostly active within the **C++ Community**
 - 🌱 Learning all about **Load Balancer & Messaging Queues**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
-- 📫 Reach me: [twitter.com/vomankumar](https://twitter.com/vomankumar)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📫 Reach me: [portfolio](https://kumarvoman.com)
+- 📝 Checkout my [Resume](files/Resume.pdf).
 
 #### My Current Stack
 
@@ -94,7 +94,19 @@ I code, so people can work from anywhere.
 <a href="https://medium.com/@vomankumar">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="mailto:kumarvoman@gmail.com">
+<a href="https://mailto:kumarvoman@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+  
+  <!--
+  <a href="https://github.com/kumarvoman/Threadpool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarvoman&repo=Threadpool" />
+</a>
+<a href="https://github.com/anuraghazra/LoadBalancer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kumarvoman&repo=Loadbalancer" />
+</a> 
+
+Learning from : https://github.com/anuraghazra/github-readme-stats
+
+-->
