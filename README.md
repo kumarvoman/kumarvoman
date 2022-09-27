@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi 👋, I'm a software engineer working in Bengaluru, Karnataka, India
-
+I code, so people can work from anywhere.
 <p align="left">
   <a href="https://leetcode.com/kumarvoman/">
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
