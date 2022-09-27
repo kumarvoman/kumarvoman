@@ -73,11 +73,12 @@ I code, so people can work from anywhere.
 
 #### Recent Activity
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
+<p><b> &#9749; Latest Tech Blogs</b></p>
+<!--
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarvoman/0"><img src="#" alt="Latest medium article">
+  -->
 
-<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="#" alt="Latest blog article"> </a>
+<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src=":one:" alt="Latest blog article"> </a>
   
 #### Connect With Me
 
