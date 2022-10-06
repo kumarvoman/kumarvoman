@@ -1,17 +1,9 @@
 <!--
 **kumarvoman/kumarvoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Hi 👋, I'm a software engineer working in Bengaluru, Karnataka, India
 I code, so people can work from anywhere.
 <p align="left">
@@ -35,13 +27,26 @@ I code, so people can work from anywhere.
 
 </p>
 
-#### Now
 
 <!--
 - ✨ Contributing to [LoadBalancer](https://github.com/chkware/cli);
 -->
 - :fire: Interested in Backend Development and System Design;
 - :calendar: Looking for contributing to C++ based open source projects 
+
+#### Quick Info
+
+```javascript
+const Voman = {
+  pronouns: "He" | "him",
+  code: [C++, C#, HTML, CSS, Java, Python, VB6.0],
+  tools: [Visual Studio, Git, Docker, SSMS],
+  architecture: ["WIN32", "microservices", "event-driven", "design system pattern"],
+  challenge: ["I am doing the #100DaysOfCode challenge focused on C++"],
+  Achievements: ["Finished 52 Books a year challenge in 2021"],
+  SuperPower: ["I can sleep for straight 26 hours"]
+}
+```
 
 #### Bio
 
@@ -53,9 +58,7 @@ I code, so people can work from anywhere.
 - 📫 Reach me: [portfolio](https://kumarvoman.com)
 - 📝 Checkout my [Resume](files/Resume.pdf).
 
-#### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="C++ 17/20"> | <img height="48" src="img/django-plain-wordmark.svg" alt="C#"> | <img height="48" src="img/postgresql-original.svg" alt="REST API"> | <img height="48" src="img/docker-original.svg" alt="Docker"> | <img height="48" src="img/linux-original.svg" alt="linux"> | <img height="48" src="img/nginx-original.svg" alt="Python"> | <img height="48" src="img/pytest-original.svg" alt="JNI"> | <img height="48" src="img/git-original.svg" alt="git"> | <img height="48" src="img/react-original.svg" alt="react">
 
 #### Development Stuffs:
 
@@ -80,7 +83,7 @@ I code, so people can work from anywhere.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarvoman/0"><img src="#" alt="Latest medium article">
   -->
 
-<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer"><img src="#" alt="Top 10 must have skills for a backend developer"> </a>
+<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer">Top 10 must have skills for a backend developer</a>
   
 #### Connect With Me
 
@@ -98,6 +101,8 @@ I code, so people can work from anywhere.
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   
   <!--
   <a href="https://github.com/kumarvoman/Threadpool">
