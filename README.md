@@ -36,8 +36,8 @@ I code, so people can work from anywhere.
 <!--
 - ✨ Contributing to [LoadBalancer](https://github.com/chkware/cli);
 -->
-- :fire: Interested in Backend Development and System Design;
-- :calendar: Looking for contributing to C++ based open source projects 
+- :fire: Experienced in Backend Development and System Design (8 years and going on, into Network security and Aviation domain);
+- :calendar: Open for contributing to exciting open source projects 
 
 #### Quick Info
 
