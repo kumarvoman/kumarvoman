@@ -21,6 +21,11 @@ I code, so people can work from anywhere.
   <a href="https://github.com/kumarvoman?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
+
+  <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity">
+      <img src="https://img.shields.io/github/commit-activity/m/kumarvoman/kumarvoman" />
+  </a>
+
   <a href="https://github.com/kumarvoman/">
     <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
   </a>
