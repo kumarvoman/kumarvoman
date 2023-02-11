@@ -74,7 +74,7 @@ const Voman = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=kumarvoman&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=kumarvoman&" alt="kumarvoman" />
 </p>
-
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kumarvoman"/> <br/>
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="files/hackerrank.jpeg" />
