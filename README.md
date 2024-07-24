@@ -38,7 +38,7 @@ I code, so people can work from anywhere.
 -->
 - :fire: Experienced in Backend Development and System Design (9.5 years and going on, into Network security and Aviation domain);
 - :calendar: Open for contributing to exciting open source projects
-- ⛄ : Always working on something creative, Always learning
+- ⛄ Always working on something creative, Always learning
 
 #### Quick Info
 
