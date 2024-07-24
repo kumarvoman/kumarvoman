@@ -42,15 +42,18 @@ I code, so people can work from anywhere.
 #### Quick Info
 
 ```javascript
-const Voman = {
-  pronouns: "He" | "him",
-  code: [C++, NodeJS, C#, HTML, CSS, Java, Python, VB6.0],
-  tools: [Visual Studio, Git, Docker],
-  database: [MSSQL, MongoDB, Oracle, MS Access]
+var Voman = {
+  Pronouns: "He" | "him",
+  Always learning Something: True,
+  Can fluently Code: [C++, NodeJS, C#, Java, Python, VB6.0],
+  Tools: [Visual Studio, Git, Docker],
+  Database: [MSSQL, MongoDB, Oracle, MS Access]
   OS: [Windows, Linux, MacOS]
-  architecture: ["WIN32", "microservices", "event-driven", "design system pattern", "ZTA"],
-  networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP]
-  challenge: ["I am doing the #100DaysOfCode challenge focused on C++"],
+  Projects currently working on: [ThreadPool, Logger]
+  Tech Stack currently learning : [Unreal Engine, Game design]
+  Architecture: ["WIN32", "microservices", "event-driven", "design system pattern", "ZTA"],
+  Networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP]
+  Challenge: ["I am doing the #100DaysOfCode challenge focused on C++"],
   Achievements: ["Finished 52 Books a year challenge in 2021"],
   SuperPower: ["I can sleep for straight 26 hours"]
 }
