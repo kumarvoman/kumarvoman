@@ -44,9 +44,12 @@ I code, so people can work from anywhere.
 ```javascript
 const Voman = {
   pronouns: "He" | "him",
-  code: [C++, C#, HTML, CSS, Java, Python, VB6.0],
-  tools: [Visual Studio, Git, Docker, SSMS],
-  architecture: ["WIN32", "microservices", "event-driven", "design system pattern"],
+  code: [C++, NodeJS, C#, HTML, CSS, Java, Python, VB6.0],
+  tools: [Visual Studio, Git, Docker],
+  database: [MSSQL, MongoDB, Oracle, MS Access]
+  OS: [Windows, Linux, MacOS]
+  architecture: ["WIN32", "microservices", "event-driven", "design system pattern", "ZTA"],
+  networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP]
   challenge: ["I am doing the #100DaysOfCode challenge focused on C++"],
   Achievements: ["Finished 52 Books a year challenge in 2021"],
   SuperPower: ["I can sleep for straight 26 hours"]
