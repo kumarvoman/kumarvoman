@@ -67,7 +67,7 @@ var Voman = {
 - 🌱 Learning all about **Load Balancer & Messaging Queues**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
 - 📫 Reach me: [portfolio](https://cppcoder.in)
-- 📝 Checkout my [Resume](files/Resume.pdf).
+- 📝 Checkout my [Resume](files/VomanKumar-CppCoder.pdf).
 - Checkout my [LeetCode](https://leetcode.com/kumarvoman/)
 
 
