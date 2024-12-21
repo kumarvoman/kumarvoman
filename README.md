@@ -46,10 +46,10 @@ I code, so people can work from anywhere.
 var Voman = {
   Pronouns: "He" | "him",
   Always learning Something: True,
-  Can fluently Code: [C++, NodeJS, C#, Java, Python, VB6.0],
+  Can fluently Code: [C++14/17, NodeJS, C#, Java, Python, VB6.0],
   Tools: [Visual Studio, Git, Docker],
   Database: [MSSQL, MongoDB, Oracle, MS Access]
-  OS: [Windows, Linux, MacOS]
+  OS: [Windows]
   Projects currently working on: [ThreadPool, Logger]
   Tech Stack currently learning : [Unreal Engine, Game design]
   Architecture: ["WIN32", "microservices", "event-driven", "design system pattern", "ZTA"],
