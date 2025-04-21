@@ -36,7 +36,7 @@ I code, so people can work from anywhere.
 <!--
 - ✨ Contributing to [LoadBalancer](https://github.com/chkware/cli);
 -->
-- :fire: Experienced in Backend Development and System Design (9.5 years and going on, into Network security and Aviation domain);
+- :fire: Experienced in Backend Development and System Design (A Decade and going on, into Networking and Application);
 - :calendar: Open for contributing to exciting open source projects
 - ⛄ Always working on something creative, Always learning
 
@@ -65,9 +65,9 @@ var Voman = {
 - 🏢 I'm currently working at **Ivanti - Senior Software Engineer R&D**
 - ⚙️ I use daily: `.cpp`, `.bat`, `.mak`, `.sh`
 - 🌍 I'm mostly active within the **C++ Community**
-- 🌱 Learning all about **Load Balancer & Messaging Queues**
+- 🌱 Learning about **Scalable Systems**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
-- 📫 Reach me: [portfolio](https://cppcoder.in)
+- 📫 Reach me: kumarvoman@gmail.com
 - 📝 Checkout my [Resume](files/VomanKumar-CppCoder.pdf).
 - Checkout my [LeetCode](https://leetcode.com/kumarvoman/)
 
@@ -88,15 +88,6 @@ var Voman = {
 <img height="273em" src="https://leetcard.jacoblin.cool/kumarvoman?theme=dark&font=Karma&ext=contest" />
 </p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Tech Blogs</b></p>
-<!--
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kumarvoman/0"><img src="#" alt="Latest medium article">
-  -->
-
-<a target="_blank" href="https://kumarvoman.com/blog/f/skills-one-should-have-to-be-a-kickass-backend-developer">Top 10 must have skills for a backend developer</a>
-  
 #### Connect With Me
 
 <p left="center">
