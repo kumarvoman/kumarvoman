@@ -68,7 +68,7 @@ var Voman = {
 - 🌱 Learning about **Scalable Systems**
 - 💬 Ping me about **Modern C++**, **DSA**, **Docker**, **RestAPIs**, **Distributed systems**
 - 📫 Reach me: kumarvoman@gmail.com
-- 📝 Checkout my [Resume](files/VomanKumar-CppCoder.pdf).
+- 📝 Checkout my [Resume](files/VomanKumar-SeniorSoftEngg-10yr.pdf).
 - Checkout my [LeetCode](https://leetcode.com/kumarvoman/)
 
 
