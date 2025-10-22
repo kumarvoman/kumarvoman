@@ -50,13 +50,13 @@ var Voman = {
   Tools: [Visual Studio, Git, Docker],
   Database: [MSSQL, MongoDB, Oracle, MS Access]
   OS: [Windows]
-  Projects currently working on: [ThreadPool, Logger]
-  Tech Stack currently learning : [Unreal Engine, Game design]
-  Architecture: ["WIN32", "microservices", "event-driven", "design system pattern", "ZTA"],
-  Networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP]
-  Challenge: ["I am doing the #100DaysOfCode challenge focused on C++"],
+  Projects currently working on: [Building something new - Coming soon]
+  Tech Stack currently learning : [React, Game design]
+  Architecture: ["WIN32", "microservices", "event-driven", "System Design", "ZTNA"],
+  Networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP, TLS]
+  Challenge: This year(2025) is focused on myself after a slow start, Learning Calisthenics, and Preparing for a full marathon.
   Achievements: ["Finished 52 Books a year challenge in 2021"],
-  SuperPower: ["I can sleep for straight 26 hours"]
+  SuperPower: ["can sleep for straight 26 hours", "Can run a half marathon any day"]
 }
 ```
 
@@ -72,7 +72,7 @@ var Voman = {
 - Checkout my [LeetCode](https://leetcode.com/kumarvoman/)
 
 
-
+<!--
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
@@ -87,7 +87,7 @@ var Voman = {
 <img height="273em" src="files/hackerrank.jpeg" />
 <img height="273em" src="https://leetcard.jacoblin.cool/kumarvoman?theme=dark&font=Karma&ext=contest" />
 </p>
-
+-->
 #### Connect With Me
 
 <p left="center">
