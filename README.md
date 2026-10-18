@@ -46,7 +46,7 @@ I code, so people can work from anywhere.
 var Voman = {
   Pronouns: "He" | "him",
   Always learning Something: True,
-  Can fluently Code: [C++14/17, NodeJS, C#, Java, Python, VB6.0],
+  Can fluently Code: [C++14/17, Python, NodeJS, C#, Java, VB6.0],
   Tools: [Visual Studio, Git, Docker],
   Database: [MSSQL, MongoDB, Oracle, MS Access]
   OS: [Windows]
@@ -54,7 +54,7 @@ var Voman = {
   Tech Stack currently learning : [React, Game design]
   Architecture: ["WIN32", "microservices", "event-driven", "System Design", "ZTNA"],
   Networking protocols: [TCP, UDP, DNS, SMB, HTTP/HTTPS, SMTP, TOTP, TLS]
-  Challenge: This year(2025) is focused on myself after a slow start, Learning Calisthenics, and Preparing for a full marathon.
+  Challenge: This year(2026) is focused on myself on fitness front - had run 2 half marathons and finished 2 HYROX open solo, preparing for a full marathon before the end of the year.
   Achievements: ["Finished 52 Books a year challenge in 2021"],
   SuperPower: ["can sleep for straight 26 hours", "Can run a half marathon any day"]
 }
